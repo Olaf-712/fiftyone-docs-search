@@ -22,6 +22,9 @@ INSTALL_REQUIRES = [
   
 with open("README.md", "r") as fh:
     description = fh.read()
+
+
+    
   
 setup(
     name="fiftyone-docs-search",
